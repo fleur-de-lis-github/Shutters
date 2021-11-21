@@ -24,10 +24,10 @@ diminish this obstacle and to enable dynamic communication, we present an ASL re
 :pushpin: Exploratory Data Analysis(EDA) <br />
 - Data Preprocessing
 - Normlization
-- Reshaping the Data
+- Reshaping the Data <br />
 :pushpin: Data Augmentation  <br />
 :pushpin: Convolution Neural Networks <br />
-- Model Optimization
+- Model Optimization <br />
 :pushpin: Data Analysis and Evaluation <br />
 :pushpin: Visualize the Predictions <br />
 :pushpin: Conclusion and Future Work <br />
