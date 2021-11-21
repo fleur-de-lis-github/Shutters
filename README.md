@@ -58,3 +58,8 @@ The value that these accommodations can provide for customers and clients should
 ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)The modification and expansion strategy was filters ('Mitchell', 'Robidoux', 'Catrom', 'Spline', 'Hermite'), along with 5% random pixelation, +/- 15% brightness/contrast, and finally 3 degrees rotation. Because of the tiny size of the images, these modifications effectively alter the resolution and class separation in interesting, controllable ways.
 
 The dataset API `kaggle datasets download -d datamunge/sign-language-mnist`
+
+## Citation
+- https://link.springer.com/chapter/10.1007/978-981-13-9939-8_3
+- https://www.researchgate.net/publication/345359906_CNN_Model_for_American_Sign_Language_Recognition
+- https://www.ijert.org/sign-language-recognition-system-using-convolutional-neural-network-and-computer-vision
