@@ -19,8 +19,8 @@ diminish this obstacle and to enable dynamic communication, we present an ASL re
 ## Potential Client
 
 ## Project Workflow
-```diff
-@@ Import Libraries and Load the ASL Dataset@@
+
+:mag: Import Libraries and Load the ASL Dataset
 @@ Exploratory Data Analysis(EDA)@@
 - Data Preprocessing
 - Normlization
