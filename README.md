@@ -10,6 +10,8 @@ diminish this obstacle and to enable dynamic communication, we present an ASL re
 + text in green
 ! text in orange
 # text in gray
+@@ text in purple (and bold)@@
+```
 
 ## Our Approach 
 ## Potential Client
