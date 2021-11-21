@@ -22,12 +22,12 @@ diminish this obstacle and to enable dynamic communication, we present an ASL re
 
 :pushpin: Import Libraries and Load the ASL Dataset <br />
 :pushpin: Exploratory Data Analysis(EDA) <br />
-- Data Preprocessing
-- Normlization
-- Reshaping the Data <br />
+  - Data Preprocessing
+  - Normlization
+  - Reshaping the Data <br />
 :pushpin: Data Augmentation  <br />
 :pushpin: Convolution Neural Networks <br />
-- Model Optimization <br />
+  - Model Optimization <br />
 :pushpin: Data Analysis and Evaluation <br />
 :pushpin: Visualize the Predictions <br />
 :pushpin: Conclusion and Future Work <br />
