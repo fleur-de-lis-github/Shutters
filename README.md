@@ -6,6 +6,8 @@
 
 ## Our Approach 
 
+The project derives its name from the etymology of `lore`- *a body of traditions and knowledge on a subject or held by a particular group, typically passed from person to person by word of mouth.*
+
  In order to
 diminish this obstacle and to enable dynamic communication, we present an ASL recognition system that uses Convolutional Neural Networks (CNN) in real time to translate data of a user’s ASL signs into text. Our problem consists of three tasks to be done :
 
