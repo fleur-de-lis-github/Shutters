@@ -46,3 +46,5 @@ diminish this obstacle and to enable dynamic communication, we present an ASL re
 >The Sign Language MNIST data came from greatly extending the small number (1704) of the color images included as not cropped around the hand region of interest. To create new >data, an image pipeline was used based on ImageMagick and included cropping to hands-only, gray-scaling, resizing, and then creating at least 50+ variations to enlarge the >quantity. 
 
 ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)The modification and expansion strategy was filters ('Mitchell', 'Robidoux', 'Catrom', 'Spline', 'Hermite'), along with 5% random pixelation, +/- 15% brightness/contrast, and finally 3 degrees rotation. Because of the tiny size of the images, these modifications effectively alter the resolution and class separation in interesting, controllable ways.
+
+The dataset API `kaggle datasets download -d datamunge/sign-language-mnist`
