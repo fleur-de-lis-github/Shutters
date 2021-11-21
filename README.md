@@ -20,17 +20,17 @@ diminish this obstacle and to enable dynamic communication, we present an ASL re
 
 ## Project Workflow
 
-:pushpin: Import Libraries and Load the ASL Dataset
-:pushpin: Exploratory Data Analysis(EDA)
+:pushpin: Import Libraries and Load the ASL Dataset <br />
+:pushpin: Exploratory Data Analysis(EDA) <br />
 - Data Preprocessing
 - Normlization
 - Reshaping the Data
-:pushpin: Data Augmentation 
-:pushpin: Convolution Neural Networks 
+:pushpin: Data Augmentation  <br />
+:pushpin: Convolution Neural Networks <br />
 - Model Optimization
-:pushpin: Data Analysis and Evaluation 
-:pushpin: Visualize the Predictions 
-:pushpin: Conclusion and Future Work
+:pushpin: Data Analysis and Evaluation <br />
+:pushpin: Visualize the Predictions <br />
+:pushpin: Conclusion and Future Work <br />
 
 
 
