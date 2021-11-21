@@ -5,7 +5,11 @@
 American Sign Language (ASL) substantially facilitates communication in the deaf community. However, there are only ~250,000-500,000 speakers which significantly limits the number of people that they can easily communicate with. The alternative of written communication is cumbersome, impersonal and even impractical when an emergency occurs. In order to
 diminish this obstacle and to enable dynamic communication, we present an ASL recognition system that uses Convolutional Neural Networks (CNN) in real time to translate data of a user’s ASL signs into text. Our problem consists of three tasks to be done :
 
-<span style="color:blue">some *This is Blue italic.* text</span>
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
 
 ## Our Approach 
 ## Potential Client
