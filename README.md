@@ -14,11 +14,27 @@ diminish this obstacle and to enable dynamic communication, we present an ASL re
 + Classifying each frame in the data to a letter
 ! Reconstructing and displaying the most likely word from classification scores (output)
 # text in gray
-@@ text in purple (and bold)@@
+
 ```
 ## Potential Client
 
 ## Project Workflow
+```diff
+@@ Import Libraries and Load the ASL Dataset@@
+@@ Exploratory Data Analysis(EDA)@@
+- Data Preprocessing
+- Normlization
+- Reshaping the Data
+@@ Data Augmentation @@
+@@ Convolution Neural Networks @@
+- Model Optimization
+@@ Data Analysis and Evaluation @@
+@@ Visualize the Predictions @@
+@@ Conclusion and Future Work@@
+````
+
+
+
 ## Data Description
 
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) The dataset format is patterned to match closely with the classic MNIST. 
