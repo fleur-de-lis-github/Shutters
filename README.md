@@ -17,6 +17,16 @@ diminish this obstacle and to enable dynamic communication, we present an ASL re
 
 ```
 ## Potential Client
+Being an inclusive business and addressing the needs of hard of hearing and Deaf customers can offer significant benefits to your business. Making an effort to be inclusive can open up many new opportunities for your business that would otherwise be missed. 
+
+Talented people with hearing impairments will feel more comfortable working for the company if a program like this is in place when they arrive.
+
+The value that these accommodations can provide for customers and clients should not be overlooked either. It is simply good customer service. Most people who are hearing impaired or deaf will be pleasantly surprised to have someone available that they can communicate with easily, and they will remember this positive experience.
+
+![image](https://user-images.githubusercontent.com/73738414/142749963-9372be2a-c937-4bc7-8864-171898fc03ac.png)
+
+
+
 
 ## Project Workflow
 
